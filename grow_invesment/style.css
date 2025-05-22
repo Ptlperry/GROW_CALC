@@ -1,0 +1,131 @@
+.tab-btn {
+    border-radius: 20px;
+    padding: 5px 15px;
+    font-weight: 600;
+}
+
+.tab-active {
+    background-color: #e6fff3;
+    color: #00b386;
+}
+
+.output-box {
+    background: #e6fff3;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #00b386;
+}
+
+.slider {
+    width: 100%;
+}
+
+.label-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.summary-value {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.summary-label {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.invest-btn {
+    background-color: #00b386;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+.navbar-brand span {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: #6c757d !important;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #000 !important;
+}
+
+.breadcrumb-item a {
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.search-bar {
+    width: 300px;
+}
+
+.btn-login {
+    background-color: #00d09c;
+    color: #fff;
+    font-weight: 600;
+}
+
+.share-icon {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    content: none;
+}
+
+.sip-card {
+    text-align: center;
+    padding: 30px 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.sip-card img {
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.sip-card h5 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.sip-card p {
+    color: #6c757d;
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+}
+
+.btn-sip {
+    background-color: #00d09c;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.calculator-list .list-group-item:first-child {
+    font-weight: 600;
+}
+.list-group-item {
+    color: #6c757d;
+    font-size: 18px;
+}
+.start-btn {
+    background-color: #00b386;
+    color: white;
+    font-weight: 600;
+    border: none;
+    width: 100%;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
